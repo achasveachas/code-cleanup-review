@@ -1,0 +1,13 @@
+{
+  "name": "code-cleanup-review",
+  "version": "1.0.0",
+  "description": "An Agent Skill that runs a fresh-context cleanup review of AI-written code before it ships.",
+  "license": "MIT",
+  "author": "Yechiel Kalmenson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achasveachas/code-cleanup-review.git"
+  },
+  "keywords": ["pi-package", "agent-skills", "code-review", "refactoring", "ai-coding"],
+  "files": ["skills", "README.md", "LICENSE", "NOTICE"]
+}
