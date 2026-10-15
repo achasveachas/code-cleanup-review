@@ -73,4 +73,6 @@ MIT. See [LICENSE](LICENSE).
 
 ## Credits
 
+Created by [Yechiel Kalmenson](https://yechiel.me)
+
 The checklists are adapted from the cleanup prompts in [pi-subagents](https://github.com/nicobailon/pi-subagents) by Nico Bailon (MIT). See [NOTICE](NOTICE).
